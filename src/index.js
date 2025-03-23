@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Hello world from ${regionName} region!</h1>
+        <h1>TEST from ${regionName} region!</h1>
         <h2>z chmury azure</h2>
       </div>
     </body>
